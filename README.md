@@ -1,2 +1,0 @@
-# SimpleTodoAppVue
-Created with CodeSandbox
